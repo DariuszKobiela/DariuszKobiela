@@ -16,13 +16,13 @@
 3. **Vehicle type recognition based on audio data**: https://github.com/DariuszKobiela/vehicle-type-recognition-based-on-audio-data
    <p>The goal of the project was to create a neural network model, which basing on the input data in the form of an audio files would be able to recognize the type of the vehicle passing. Main steps og the project included signal processing (processing audio files) into spectrograms and MFCC (Mel-frequency cepstral coefficients), then classification using convolutional neural networks (CNN) and autoencoders. </p>
 
-4. ***Vehicle type classification based on image data**: https://github.com/DariuszKobiela/vehicle-type-classification-based-on-image-data
+5. **Vehicle type classification based on image data**: https://github.com/DariuszKobiela/vehicle-type-classification-based-on-image-data
    <p>This project had similar goal to the previous one, however, here the classification was done using image files as the input data. Model used was convolutional neural network MobileNetV2. Full data processing and modelling spectrum is shown: data collection, cleaning, processing, labelling, and modelling. </p>
    
-5. **ARIMA vs LSTM of NASDAQ stock exchange data**: https://github.com/DariuszKobiela/arima-vs-lstm-on-nasdaq-stock-exchange-data. 
+7. **ARIMA vs LSTM of NASDAQ stock exchange data**: https://github.com/DariuszKobiela/arima-vs-lstm-on-nasdaq-stock-exchange-data.
    <p>This project was part of my Bachelor Thesis and was presented on KES 2022 conference in Verona, Italy (http://kes2022.kesinternational.org/) in the form of oral presentation and scientific paper published by Elsevier journal (https://doi.org/10.1016/j.procs.2022.09.445). Thesis was written in cooperation between Gdańsk University of Technology and NASDAQ (National Association of Securities Dealers Automated Quotations) stock exchange (https://www.nasdaq.com/solutions/nasdaq-data-on-demand) and Warsaw Stock Exchange, using data provided by them. Performed study compares the results of two completely different models: statistical one (ARIMA) and deep learning one (LSTM) based on a chosen set of NASDAQ data. Both models are used to predict daily or monthly average prices of chosen companies listed on the NASDAQ stock exchange. The most important steps of the project were time series processing and normalization for further processing in statistical models and recurrent neural networks (LSTM, GRU). </p>
 
-6. **Emotion recognition using AMIGOS dataset**: https://github.com/DariuszKobiela/AMIGOS/blob/master/FINAL_REPORT.ipynb
-   <p>Having various signals describing the modalities as a Data Science Team project we created a Machine Learning (Decision Tree) model and a Deep Learning (Long Short-Term Memory) model which accepted the signals as an input and provided recognized emotion as an output. Emotion recognition method was build using AMIGOS dataset. Project was done using SCRUM methodology. </p>
+9. **Emotion recognition using AMIGOS dataset**: https://github.com/DariuszKobiela/AMIGOS/blob/master/FINAL_REPORT.ipynb
+    <p>Having various signals describing the modalities as a Data Science Team project we created a Machine Learning (Decision Tree) model and a Deep Learning (Long Short-Term Memory) model which accepted the signals as an input and provided recognized emotion as an output. Emotion recognition method was build using AMIGOS dataset. Project was done using SCRUM methodology. </p>
 
 
