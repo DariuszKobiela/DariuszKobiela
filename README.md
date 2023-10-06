@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DariuszKobiela - Machine Learning (Artificial Intelligence) student at the Gdańsk University of Technology! 
 - 👀 I’m interested in the field of Data Science, Big Data and Machine Learning. 
-- 🌱 The most interesting projects can be found in my github reposities. 
+- 🌱 The most interesting projects can be found in my github repositories. 
 - 📫 You can reach me via linkedIn: www.linkedin.com/in/dariusz-kobiela-2a3b511bb
